@@ -13,7 +13,10 @@ Tags: #NetworkingBasics
 # References/ Important Resources
 ----
 
+![[COMPUTER NETWORKS-Ktunotes.in.pdf]]
+
 The whole text book lmao
 
 ![[Computer Networks Faruzan.pdf]]
+
 
