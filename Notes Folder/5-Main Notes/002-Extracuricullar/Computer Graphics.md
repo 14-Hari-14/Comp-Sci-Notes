@@ -1,7 +1,13 @@
+---
+Status: In Progress
+Date: 2024-10-06T22:49
+---
+
 
 2024-09-06 18:52
 
 Tags:
+
 
 # Computer Graphics
 
