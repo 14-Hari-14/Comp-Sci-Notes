@@ -49,7 +49,7 @@ Routers are layer 3 devices that enable communication across networks by routing
 - IP(Internet Protocol)
 - ARP(Address Resolution Protocol)
   
-**2:** **DATA LINK** Transmitting data between nodes on a network, i.e., switching, This is the province of MAC addresses, the physical addresses assigned to **Network Interface Cards**.Read more here -> [[remote-blog/Notes Folder/5-Main Notes/Computer Networks/Module 1]]  
+**2:** **DATA LINK** Transmitting data between nodes on a network, i.e., switching, This is the province of MAC addresses, the physical addresses assigned to **Network Interface Cards**.Read more here -> [[CN_MOD_1]]  
 
 Switches are Layer 2 devices that enable communication on a local network by forwarding frames between those devices. Ever heard of packets? Frames are like packets, but on Layer 2. (Switching, MAC Addresses)  
 

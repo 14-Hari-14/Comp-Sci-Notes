@@ -31,7 +31,21 @@ Tags:
 
 
 
-
+### Miscellaneous
+ - **Interleaved:** To intersperse (something) at regular intervals between the parts of a thing or between items in a group.
+ - **immure:** enclose or confine (someone) against their will
+ - **visionary:** thinking or planning about the future
+ - **indemnified:** compensate (someone) for harm or loss
+ - **propped up:** preventing the fall of an object by supporting it with some structure
+ - **manacled:** restraining a person or something with shackles
+ - **bridling:** put a bridle on a horse (placing restriction on something)
+ - **cursory:** hasty and therefore not detailed
+ - **perfunctory:** an action without any effort/interest/feeling
+ - **bucolic:** relating to the pleasant side of the countryside and country life
+ - **spurious:** not being what it purports to be 
+ - **purports:** appear to be or do something (especially false)
+ - **hidebound:** unwilling or unable to change because of tradition or convention
+ - **Peruse:** To examine or consider with care
 
 # References
 ---

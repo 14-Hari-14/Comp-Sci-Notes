@@ -6,7 +6,7 @@ Status:
 
 Tags:
 
-# Module 1
+# SS_MOD_1
 
 Basic Terminologies and components that make up the low level part of the computers
 

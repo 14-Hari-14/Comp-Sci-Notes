@@ -8,6 +8,8 @@ Tags:
 
 # Module 1
 
+![[Pasted image 20241027160926.png]]
+
 ## Basic Terminology
 
 **Network:** Its the collection of autonomous computers connected by a single technology. Connection can be copper wire optical cables or wireless mediums like infra red waves
@@ -40,8 +42,15 @@ Tags:
 	- wireless networks
 - Social Issues
 	- social media platforms
-## Computer Network Components
+## Network Hardware Components
 
+- **Servers**
+- **Clients**
+- **Peers**
+- **Transmission Media**
+- **Connecting Device**
+
+### Examples of connecting devices 
 Computer network components are the major parts required to install the software
 **Examples:**
 - **NIC (Network Interface Card)**
@@ -56,7 +65,7 @@ Computer network components are the major parts required to install the software
 - **Gateway**
 - **Bridge**
 
-### NIC
+#### NIC
 
 - Its also called as the network interface card. It is used to connect one computer to another on a network 
 - Transfer Rate: 10, 100, 1000 Mb/s
@@ -69,7 +78,7 @@ Computer network components are the major parts required to install the software
 	- **Wireless:** Contains antenna to obtain the connection over the wired networks
 
 are layer 3 devices that enable communication across networks by routing packets between those devices based on IP addresses. (Routing, I
-### HUB
+#### HUB
 **Definition:** Its a hardware device that divides the network connection among multiple devices.
 
 **Working:** 
@@ -78,11 +87,38 @@ One computer will send request to the hub. The hub will then take the request an
 **Disadvantages:**
 This process uses a lot of bandwidth and limits the communication therefore the hub has become obsolete. Replaced by switches and Routers
 
+#### Router
+
+
+## Types of Computer Network
+
+Computer Networks can be classified based on these 4 parameters
+- **Transmission Technology**
+- **Topology**
+- **Scale** 
+- **Transmission Media**
+### Transmission Technology
+Based on types of transmission technology 
+- **Broadcast** 
+- **Multicast**
+- **Peer to Peer**
+
+#### Broadcast
+Here the data is sent to all the available devices on the network but only the intended recipient processes the data
+
+Examples of broadcast are 
+- ARP in local networks
+#### Multicast 
+Data is only sent to a 
+
+### Topology
+### Scale 
+### Transmission Media
 
 
 
 
-### Data flow
+## Data flow
 
 - Simplex 
 - Half Duplex 
