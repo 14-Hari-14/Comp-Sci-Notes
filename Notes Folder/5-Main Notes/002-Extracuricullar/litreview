@@ -1,0 +1,81 @@
+# Notes on Automatic Text Summarization Research
+
+## **2.6 Automatic Text Summarization: A Comprehensive Survey [6]**
+- **Importance**: ATS addresses the impracticality of manual summarization for vast online data by generating concise summaries that capture main ideas while minimizing redundancy.
+
+- **Approaches**:
+  1. **Extractive**: Selects important sentences from the text.
+     - **Pros**: Simple, fast, and accurate.
+     - **Cons**: Redundant and lacks cohesion.
+  2. **Abstractive**: Generates new sentences using semantic representation.
+     - **Pros**: Human-like, concise summaries.
+     - **Cons**: Computationally intensive and complex.
+  3. **Hybrid**: Combines extractive and abstractive techniques.
+     - **Use case**: Extract important sentences, then refine them abstractively.
+
+- **Applications**: Includes news summarization, opinion mining, biomedical text, legal documents, and social media.
+
+- **Techniques**:
+  - **Statistical**: Identifies important sentences using term frequency or position.
+  - **Linguistic**: Parsing and semantic analysis.
+  - **Soft Computing**: Machine learning and fuzzy logic for ranking sentences.
+
+- **Evaluation**:
+  - Metrics: ROUGE, precision, recall.
+  - Datasets: DUC, CNN, LCSTS.
+
+- **Challenges**:
+  1. Redundancy in multi-document summarization.
+  2. Lack of non-English datasets.
+  3. Subjective nature of evaluation.
+  4. Readability and coherence of generated summaries.
+
+---
+
+## **Automatic Text Summarization (Fattah and Ren)**
+- **Objective**: Develop an extractive summarization model using sentence features and machine learning methods.
+
+- **Features Used**:
+  1. **Sentence Position**: Early sentences in paragraphs are prioritized.
+  2. **Positive/Negative Keywords**: Indicates sentence relevance.
+  3. **Centrality**: Vocabulary overlap with other sentences.
+  4. **Resemblance to Title**: Overlap with document title.
+  5. **Proper Nouns & Numerical Data**: Indicators of importance.
+
+- **Techniques**:
+  - **Genetic Algorithm (GA)**: 
+    - A heuristic optimization method inspired by natural selection.
+    - Sentences are represented as chromosomes, and feature weights are encoded as genes.
+    - An initial population of weight combinations is generated. Each combination is evaluated based on its fitness (how well it ranks sentences).
+    - Through processes like selection, crossover, and mutation, better weight combinations evolve over successive generations.
+    - The final optimal weights are used to rank sentences and generate summaries.
+  
+  - **Mathematical Regression (MR)**:
+    - A statistical technique that models the relationship between input features and the target output (summary relevance).
+    - Features extracted from manually summarized data are used to train the model by minimizing error between predicted and actual outputs.
+    - During testing, these learned relationships (weights) are applied to new data to score and rank sentences based on their relevance.
+
+- **Evaluation**:
+  - Dataset: 150 English religious articles.
+  - Metrics: Precision (comparison to manual summaries).
+
+- **Results**:
+  - GA and MR outperform baseline approaches.
+  - Highlights the potential of combining feature-based ranking with machine learning.
+
+---
+
+## **Key Terms**
+### **Stopword Removal**
+- Removes common words (e.g., "the," "is") that add little value to summarization tasks.
+
+### **ROUGE Metric**
+- Measures summary quality by comparing overlap with reference summaries.
+  - **ROUGE-N**: N-gram overlap.
+  - **ROUGE-L**: Longest common subsequence.
+
+### **Fuzzy Logic**
+- Handles uncertainty by assigning degrees of truth (e.g., relevance scores between 0 and 1).
+- Useful for ranking sentences based on ambiguous features.
+
+---
