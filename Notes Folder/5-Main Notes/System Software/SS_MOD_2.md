@@ -2,7 +2,7 @@
 
 2024-10-26 13:26
 
-Tags:
+Tags: #ss #assembly
 
 # SS_MOD_2
 

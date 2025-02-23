@@ -2,6 +2,7 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
+  - moss
 excalidraw-open-md: true
 ---
 # [[Moss MOD 2]]

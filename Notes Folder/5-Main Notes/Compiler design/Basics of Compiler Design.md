@@ -1,7 +1,7 @@
 
 2025-02-16 15:18
 
-Tags:
+Tags: #cd #incompletenotes 
 
 # Basics of Compiler Design
 

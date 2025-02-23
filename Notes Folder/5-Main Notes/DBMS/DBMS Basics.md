@@ -1,4 +1,9 @@
-DBMS: Database management system
+
+2025-02-23 16:06
+
+Tags:
+
+# DBMS Basics
 
 ### Levels of Abstraction
 1. Physical Level (describes how a record is stored)
@@ -25,3 +30,7 @@ The ability to modify physical schema without changing the logical schema
 - ER diagram for the db design
 - Object(encapsulated concept of an entity which can be manipulated) based data models
 - Semi structure model (XML)
+
+# References
+---
+

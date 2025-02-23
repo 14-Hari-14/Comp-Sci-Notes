@@ -2,7 +2,7 @@
 
 2024-12-10 20:13
 
-Tags:
+Tags: #disastermgnotes
 
 # Disaster management notes
 

@@ -4,7 +4,7 @@
 
 Status: 
 
-Tags:
+Tags: #ss #types_of_ss
 
 # SS_MOD_1
 

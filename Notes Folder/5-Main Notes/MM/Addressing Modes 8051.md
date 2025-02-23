@@ -1,7 +1,7 @@
 
 2024-10-20 23:19
 
-Tags:
+Tags: #mm #addressingmodes8051 #unorganizednotes
 
 # Addressing Modes 8051
 

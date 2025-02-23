@@ -2,6 +2,8 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
+  - "#react"
+  - "#webdev"
 excalidraw-open-md: true
 ---
 # [[React Notes]]
