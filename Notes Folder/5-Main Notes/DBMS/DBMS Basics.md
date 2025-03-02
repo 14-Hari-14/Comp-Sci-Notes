@@ -31,6 +31,17 @@ The ability to modify physical schema without changing the logical schema
 - Object(encapsulated concept of an entity which can be manipulated) based data models
 - Semi structure model (XML)
 
+### DB Engine
+- **Storage Manager** The interface between low level data stored in the database and the application program and queries submitted to the system
+- **Query Processing**
+- **Transaction Manager**
+
+
+#### SM
+- Handles interaction with the OS file manager
+- Efficient storing, retrieving and updating of data
+
+
 # References
 ---
 

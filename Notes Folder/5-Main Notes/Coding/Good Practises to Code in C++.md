@@ -1,7 +1,6 @@
 
 2024-08-16 23:19
 
-
 Tags: #Cpp_Intro
 
 # Good Practises to Code in C++
